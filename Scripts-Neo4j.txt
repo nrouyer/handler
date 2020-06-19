@@ -1,0 +1,51 @@
+Neo4J Script 16 janvier 2019
+
+// Create airlines
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///airlines.csv" AS line
+CREATE (:Airline {name: line.Nom});
+
+// Create airports
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///airports.csv" AS line
+CREATE (:Airport {name: line.Nom});
+
+// Create groups
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///groups.csv" AS line
+CREATE (:Group {name: line.Nom});
+
+// Create handlers
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///handlers.csv" AS line
+CREATE (:Handler {name: line.Nom});
+
+// CREATE INDEX ON :Airline(name);
+// CREATE INDEX ON :Airport(name);
+// CREATE INDEX ON :Group(name);
+
+CREATE CONSTRAINT ON (a:Airline) ASSERT a.name IS UNIQUE;
+CREATE CONSTRAINT ON (a:Airport) ASSERT a.name IS UNIQUE;
+CREATE CONSTRAINT ON (a:Group) ASSERT a.name IS UNIQUE;
+CREATE CONSTRAINT ON (a:Handler) ASSERT a.name IS UNIQUE;
+
+// Create relationShip Airline-Handler
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///airlineHandler.csv" AS line
+MATCH (a:Airline {name: line.Airline})
+MATCH (h:Handler {name: line.Handler})
+CREATE (a)-[:HandlingContract]->(h);
+
+// Create relationShip Handler-Airport
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///handlersAirports.csv" AS line
+MATCH (h:Handler {name: line.Handler})
+MATCH (a:Airport {name: line.Airport})
+CREATE (h)-[:isLocatedOn]->(a);
+
+// Create relationShip Handler-Group
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:///handlerGroup.csv" AS line
+MATCH (h:Handler {name: line.Handler})
+MATCH (g:Group {name: line.Group})
+CREATE (h)-[:isPartOf]->(g);

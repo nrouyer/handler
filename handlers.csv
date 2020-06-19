@@ -1,0 +1,347 @@
+Nom,type
+Abelair Aviation,handler
+Aeroplan,handler
+AF Handling BOD,handler
+AF Handling LYS,handler
+AF Handling MRS,handler
+AF Handling NAP,handler
+AF Handling NCE,handler
+AF Handling NTE,handler
+AF Handling ORY,handler
+AF Handling TLS,handler
+AHO AIRPORT,handler
+AHS Berlin TXL,handler
+AHS DUS,handler
+AHS FRA,handler
+AHS HAM,handler
+AHS Munich,handler
+Airport Associates,handler
+Airport Handling S.P.A,handler
+Airpro Oy KTT,handler
+Alyzia Bordeaux,handler
+Alyzia CDG,handler
+Alyzia Lyon,handler
+Alyzia Marseille,handler
+Alyzia Montpellier,handler
+Alyzia Nantes,handler
+Alyzia ORY,handler
+Alyzia Toulouse,handler
+ARSMEX CUN,handler
+ARSMEX VRA,handler
+Avia Serve MALTA,handler
+Aviapartner ACE,handler
+Aviapartner Bordeaux,handler
+Aviapartner BRU,handler
+Aviapartner CTA,handler
+Aviapartner FCO,handler
+Aviapartner FUE,handler
+Aviapartner Lille,handler
+Aviapartner Lyon,handler
+Aviapartner Mahon,handler
+Aviapartner MPL,handler
+Aviapartner MRS,handler
+Aviapartner Nantes,handler
+Aviapartner NCE,handler
+Aviapartner Palermo,handler
+Aviapartner Strasbourg,handler
+Aviapartner Toulouse,handler
+Aviapartner VCE,handler
+AVIATION SOLUTION BERLIN,handler
+AVIATOR,handler
+BES AIRPORT,handler
+BIQ AIRPORT,handler
+BOJ airport,handler
+Bratislava Airport,handler
+CAG AIRPORT,handler
+Casavia Ajaccio,handler
+Casavia Bastia,handler
+Casavia Calvi,handler
+Celebi AYT,handler
+CFE Airport,handler
+CFR airport,handler
+Chambery Airport,handler
+CRL Airport,handler
+DHL Gatwick,handler
+DHL Luton,handler
+DLE Airport,handler
+Dnata,handler
+DTM AIRPORT,handler
+Dubrovnik Airport,handler
+EMAS Egyptian Marsa Alam Aviation Services,handler
+FSC AIRPORT,handler
+GEASAR,handler
+GEH Belgrade,handler
+GEH CDG,handler
+GEH ORY,handler
+GH Brindisi,handler
+GH ITALIA Verona,handler
+GH Napoli,handler
+GH Palermo,handler
+GH VENEZIA IT,handler
+GIB AIRPORT,handler
+GLOBE GROUND Malta,handler
+GNB AIRPORT,handler
+GOA AIRPORT,handler
+Goldair HER,handler
+Goldair Sofia,handler
+Gozenair,handler
+GROUNDFORCE BIO,handler
+Groundforce FNC,handler
+GROUNDFORCE VLC,handler
+GTL LOT Airport Services,handler
+HAVAS DLM,handler
+HAVAS Ground Handling ADB,handler
+HAVAS Ground Handling AYT,handler
+HAVAS Ground Handling BJV,handler
+Hurghada,handler
+Iberia Airport Service GRX,handler
+Iberia Airport Service VLC,handler
+Iberia Airport Service VLL,handler
+INV AIRPORT,handler
+Laufer Aviation TLV,handler
+Laufer Aviation VDA,handler
+LGS HANDLING Larnaca,handler
+LIN AIRPORT HANDLING,handler
+Link Aero Trading Agency,handler
+LINK Aero Trading Jordan,handler
+LJUBLJANA Airport,handler
+LRT airport,handler
+LS AIRPORT,handler
+LUX AIRPORT,handler
+Malev ground handling BUD,handler
+Matotte Air Services,handler
+Melendez ACE,handler
+Melendez AGP,handler
+Melendez BCN,handler
+Melendez FUE,handler
+Melendez IBZ,handler
+Melendez LPA,handler
+Melendez MAD,handler
+Melendez MAH,handler
+Melendez PMI,handler
+Melendez TFS,handler
+Melendez XRY,handler
+Menzies ABZ,handler
+Menzies AGP,handler
+Menzies ALC,handler
+Menzies AMS,handler
+Menzies ARN,handler
+Menzies BCN,handler
+Menzies BHX,handler
+Menzies Budapest,handler
+Menzies IBZ,handler
+Menzies IOM,handler
+Menzies LEI,handler
+Menzies MAD,handler
+Menzies MAN,handler
+Menzies MJV,handler
+Menzies NCE,handler
+Menzies PMI,handler
+Menzies PRG,handler
+Menzies SCQ,handler
+Menzies SVQ,handler
+Menzies Tenerife Sud,handler
+Nassau flt services,handler
+Nice Handling,handler
+OFS Orly Flight Services,handler
+PISA AIRPORT,handler
+Portway FAO,handler
+Portway FNC,handler
+Portway LIS,handler
+Portway OPO,handler
+PRN AIRPORT,handler
+PUY AIRPORT,handler
+QAS ISRAEL,handler
+RNS AIRPORT,handler
+Royal Air Maroc Agadir,handler
+Royal Air Maroc Esuat,handler
+Royal Air Maroc Handling Oujda,handler
+Royal Air Maroc RAK,handler
+Royal Air Maroc TNG,handler
+Royal Air Maroc TTU,handler
+RTG Ground Handling Oy,handler
+SAS BOO,handler
+SAS Ground Handling Norway,handler
+SAS TOS,handler
+SAS TRD,handler
+SHS Dakar,handler
+Sky Handling Boston,handler
+Sky Handling Cork,handler
+Sky handling Dublin,handler
+Sky Handling Heathrow,handler
+Sky Handling Shannon,handler
+Skyserv Alexandroupolis,handler
+Skyserv AOK,handler
+Skyserv Athenes,handler
+Skyserv CFU,handler
+Skyserv Chania,handler
+Skyserv Chios,handler
+Skyserv EFL,handler
+Skyserv GPA,handler
+Skyserv Heraklion,handler
+Skyserv IOA,handler
+Skyserv Kalamata,handler
+Skyserv Kastoria,handler
+Skyserv Kavala,handler
+Skyserv Kozani,handler
+Skyserv Kythira,handler
+Skyserv Milos,handler
+Skyserv Mykonos,handler
+Skyserv Mytilini,handler
+Skyserv Preveza,handler
+Skyserv Rhodos,handler
+Skyserv Samos,handler
+Skyserv Santorini,handler
+Skyserv Sitia,handler
+Skyserv Skiathos,handler
+Skyserv Thessaloniki,handler
+Skyserv Volos,handler
+Skyserv Zakynthos,handler
+SO.A.CO Comiso Airport,handler
+Split Airport,handler
+STOBART AVIATION Stansted,handler
+STR AIRPORT,handler
+Swissport Agadir,handler
+Swissport Alicante,handler
+Swissport Almeria,handler
+Swissport Athenes,handler
+Swissport AZS,handler
+Swissport Barcelone,handler
+Swissport BFS,handler
+Swissport BRS,handler
+Swissport Bruxelles,handler
+Swissport BSL,handler
+Swissport CFU,handler
+Swissport CHQ,handler
+Swissport Dublin,handler
+Swissport EDI,handler
+Swissport EFL,handler
+Swissport Fuerteventura,handler
+Swissport Gerona,handler
+Swissport GLA,handler
+Swissport Grenade,handler
+Swissport GVA,handler
+Swissport Helsinki,handler
+Swissport Heraklion,handler
+Swissport Ibiza,handler
+Swissport JER,handler
+Swissport Jerez,handler
+Swissport JFK,handler
+Swissport JMK,handler
+Swissport JTR,handler
+Swissport KEF,handler
+Swissport KGS,handler
+Swissport KLX,handler
+Swissport La Palma,handler
+Swissport Lanzarote,handler
+Swissport Las Palmas,handler
+Swissport LGW,handler
+Swissport LPL,handler
+Swissport LRM,handler
+Swissport Madrid,handler
+Swissport Malaga,handler
+Swissport MIA,handler
+Swissport Murcia,handler
+Swissport NCL,handler
+Swissport OTP,handler
+Swissport Palma de Majorque,handler
+Swissport PFO,handler
+Swissport POP,handler
+Swissport PUJ,handler
+Swissport RAK,handler
+Swissport Reus,handler
+Swissport RHO,handler
+Swissport Seville,handler
+Swissport SFO,handler
+Swissport SKG,handler
+Swissport STN,handler
+Swissport Tenerife Sud,handler
+Swissport Valence,handler
+Swissport Vigo,handler
+Swissport Volos,handler
+Swissport Zakynthos,handler
+Swissport ZRH,handler
+TACV BVC,handler
+TACV SID,handler
+TAV Handling,handler
+TGS SAW,handler
+TLL AIRPORT,handler
+TLN Airport,handler
+TS Antilles FDF,handler
+TS Antilles PTP,handler
+Tunisair Handling DJE,handler
+Tunisair Handling MIR,handler
+Tunisair Handling TOE,handler
+Tunisair Handling TUN,handler
+VIENNA AIRPORT,handler
+WFS EDI,handler
+WISAG Berlin,handler
+WISAG Cologne,handler
+Zadar Airport,handler
+Zagreb Airport,handler
+Celebi ADB,handler
+Flightcare,handler
+Royal Jordanian AMM,handler
+Royal Jordanian AQJ,handler
+IAB,handler
+Olympic handling,handler
+SEAP,handler
+Celebi BJV,handler
+Skyport,handler
+Celebi BUD,handler
+BVA airport,handler
+Sogaerdyn,handler
+Egyptair CAI,handler
+Olympic handling CFU,handler
+Flycare,handler
+Guinée Aviation Services,handler
+CND airport,handler
+AHS CSK,handler
+Saga Handling,handler
+Dijon airport,handler
+AHS Dakar,handler
+QAS handling,handler
+Groundforce FAO,handler
+Forli Airport,handler
+Scala,handler
+Olympic Handling GPA,handler
+Olympic Handling HER,handler
+Thai Airways handling,handler
+Egyptair handling,handler
+Acciona,handler
+Celebi IST,handler
+AID,handler
+Olympic handling JMK,handler
+Olympic Handling JTR,handler
+IGS,handler
+Olympic handling KGS,handler
+KRK airport services,handler
+LIG airport,handler
+Groundforce LIS,handler
+Egyptair LXR,handler
+Kenya aerotech,handler
+WARL,handler
+GMIAL MLE,handler
+Kenya aerotech NBO,handler
+Sogeap,handler
+Acciona,handler
+Iscar,handler
+Olympic Handling RHO,handler
+Aeradria,handler
+Aviapartner RTM,handler
+Celebi SAW,handler
+Iberia Airport Service SCQ,handler
+Swissport SDQ,handler
+Olympic Handling SKG,handler
+Egypt Air SSH,handler
+SAS SVG,handler
+Groundforce SVQ,handler
+Egyptair handling TCP,handler
+Semaval,handler
+CDSL,handler
+Fraport,handler
+QAS VDA,handler
+Aviohandling,handler
+AF Handling CDG,handler
+AF Handling MLH,handler
+AF Handling MLH,handler

@@ -1,0 +1,848 @@
+Airline,Handler
+XK,AF Handling BOD
+AF,AF Handling BOD
+XK,AF Handling LYS
+AF,AF Handling LYS
+AF,AF Handling LYS
+A5,AF Handling LYS
+XK,AF Handling MRS
+AF,AF Handling MRS
+AF,AF Handling MRS
+A5,AF Handling MRS
+XK,AF Handling NAP
+AF,AF Handling NAP
+XK,AF Handling NCE
+AF,AF Handling NCE
+XK,AF Handling NTE
+AF,AF Handling NTE
+AF,AF Handling NTE
+A5,AF Handling NTE
+XK,AF Handling ORY
+AF,AF Handling ORY
+AF,AF Handling ORY
+A5,AF Handling ORY
+XK,AF Handling TLS
+AF,AF Handling TLS
+U2,AHO AIRPORT
+TO,AHS Berlin TXL
+SE,AHS Berlin TXL
+U2,AHS DUS
+U2,AHS FRA
+U2,AHS HAM
+U2,AHS Munich
+TO,Airport Associates
+U2,Airport Handling S.P.A
+TO,Airpro Oy KTT
+U2,Alyzia Bordeaux
+AH,Alyzia Bordeaux
+XK,Alyzia Bordeaux
+U2,Alyzia Bordeaux
+TU,Alyzia Bordeaux
+TK,Alyzia Bordeaux
+SE,Alyzia CDG
+U2,Alyzia Lyon
+SU,Alyzia Lyon
+U2,Alyzia Lyon
+AT,Alyzia Lyon
+TU,Alyzia Lyon
+TK,Alyzia Lyon
+V7,Alyzia Lyon
+U2,Alyzia Marseille
+XK,Alyzia Marseille
+U2,Alyzia Marseille
+AT,Alyzia Marseille
+TU,Alyzia Marseille
+TK,Alyzia Marseille
+U2,Alyzia Montpellier
+SE,Alyzia Montpellier
+U2,Alyzia Nantes
+U2,Alyzia Nantes
+AT,Alyzia Nantes
+TU,Alyzia Nantes
+UX,Alyzia ORY
+1T,Alyzia ORY
+BE,Alyzia ORY
+5K,Alyzia ORY
+IR,Alyzia ORY
+TB,Alyzia ORY
+PC,Alyzia ORY
+AT,Alyzia ORY
+S4,Alyzia ORY
+TP,Alyzia ORY
+TU,Alyzia ORY
+U2,Alyzia Toulouse
+AH,Alyzia Toulouse
+U2,Alyzia Toulouse
+TK,Alyzia Toulouse
+V7,Alyzia Toulouse
+SE,ARSMEX CUN
+SE,ARSMEX VRA
+U2,Avia Serve MALTA
+U2,Aviapartner ACE
+SE,Aviapartner Bordeaux
+A3,Aviapartner Bordeaux
+EI,Aviapartner Bordeaux
+3O,Aviapartner Bordeaux
+BT,Aviapartner Bordeaux
+AC,Aviapartner Bordeaux
+AF,Aviapartner Bordeaux
+TS,Aviapartner Bordeaux
+5O,Aviapartner Bordeaux
+0B,Aviapartner Bordeaux
+BA,Aviapartner Bordeaux
+SN,Aviapartner Bordeaux
+CE,Aviapartner Bordeaux
+AY,Aviapartner Bordeaux
+BE,Aviapartner Bordeaux
+IB,Aviapartner Bordeaux
+I2,Aviapartner Bordeaux
+KL,Aviapartner Bordeaux
+LH,Aviapartner Bordeaux
+DY,Aviapartner Bordeaux
+BJ,Aviapartner Bordeaux
+AT,Aviapartner Bordeaux
+FR,Aviapartner Bordeaux
+LX,Aviapartner Bordeaux
+TP,Aviapartner Bordeaux
+TB,Aviapartner Bordeaux
+U6,Aviapartner Bordeaux
+VY,Aviapartner Bordeaux
+W6,Aviapartner Bordeaux
+SE,Aviapartner BRU
+A3,Aviapartner BRU
+EI,Aviapartner BRU
+BT,Aviapartner BRU
+UX,Aviapartner BRU
+TS,Aviapartner BRU
+BM,Aviapartner BRU
+BA,Aviapartner BRU
+OK,Aviapartner BRU
+U2,Aviapartner BRU
+LY,Aviapartner BRU
+ET,Aviapartner BRU
+EY,Aviapartner BRU
+A5,Aviapartner BRU
+IB,Aviapartner BRU
+KL,Aviapartner BRU
+IG,Aviapartner BRU
+BJ,Aviapartner BRU
+8Q,Aviapartner BRU
+PC,Aviapartner BRU
+QR,Aviapartner BRU
+AT,Aviapartner BRU
+FR,Aviapartner BRU
+SV,Aviapartner BRU
+XQ,Aviapartner BRU
+TP,Aviapartner BRU
+HV,Aviapartner BRU
+TB,Aviapartner BRU
+TU,Aviapartner BRU
+TK,Aviapartner BRU
+VY,Aviapartner BRU
+U2,Aviapartner CTA
+TO,Aviapartner FCO
+U2,Aviapartner FCO
+SE,Aviapartner FCO
+U2,Aviapartner FUE
+TO,Aviapartner Lille
+U2,Aviapartner Lille
+SE,Aviapartner Lille
+TO,Aviapartner Lyon
+SE,Aviapartner Lyon
+A3,Aviapartner Lyon
+EI,Aviapartner Lyon
+AH,Aviapartner Lyon
+3O,Aviapartner Lyon
+AC,Aviapartner Lyon
+XK,Aviapartner Lyon
+KM,Aviapartner Lyon
+TS,Aviapartner Lyon
+OS,Aviapartner Lyon
+0B,Aviapartner Lyon
+BA,Aviapartner Lyon
+SN,Aviapartner Lyon
+CE,Aviapartner Lyon
+OU,Aviapartner Lyon
+EW,Aviapartner Lyon
+AY,Aviapartner Lyon
+BE,Aviapartner Lyon
+I2,Aviapartner Lyon
+LS,Aviapartner Lyon
+KL,Aviapartner Lyon
+LH,Aviapartner Lyon
+YM,Aviapartner Lyon
+BJ,Aviapartner Lyon
+PC,Aviapartner Lyon
+XQ,Aviapartner Lyon
+TP,Aviapartner Lyon
+RO,Aviapartner Lyon
+TO,Aviapartner Lyon
+TB,Aviapartner Lyon
+VY,Aviapartner Lyon
+W6,Aviapartner Lyon
+U2,Aviapartner Mahon
+SE,Aviapartner MRS
+A3,Aviapartner MRS
+EI,Aviapartner MRS
+SU,Aviapartner MRS
+AH,Aviapartner MRS
+UU,Aviapartner MRS
+AC,Aviapartner MRS
+MD,Aviapartner MRS
+KM,Aviapartner MRS
+TS,Aviapartner MRS
+AZ,Aviapartner MRS
+BA,Aviapartner MRS
+SN,Aviapartner MRS
+LY,Aviapartner MRS
+ET,Aviapartner MRS
+EW,Aviapartner MRS
+IB,Aviapartner MRS
+KL,Aviapartner MRS
+LH,Aviapartner MRS
+BJ,Aviapartner MRS
+PC,Aviapartner MRS
+FR,Aviapartner MRS
+SK,Aviapartner MRS
+XQ,Aviapartner MRS
+LX,Aviapartner MRS
+TP,Aviapartner MRS
+TB,Aviapartner MRS
+V7,Aviapartner MRS
+VY,Aviapartner MRS
+TO,Aviapartner Nantes
+SE,Aviapartner Nantes
+A3,Aviapartner Nantes
+EI,Aviapartner Nantes
+YW,Aviapartner Nantes
+TS,Aviapartner Nantes
+BA,Aviapartner Nantes
+SN,Aviapartner Nantes
+CE,Aviapartner Nantes
+BE,Aviapartner Nantes
+IB,Aviapartner Nantes
+I2,Aviapartner Nantes
+TB,Aviapartner Nantes
+KL,Aviapartner Nantes
+LH,Aviapartner Nantes
+LG,Aviapartner Nantes
+BJ,Aviapartner Nantes
+FR,Aviapartner Nantes
+TP,Aviapartner Nantes
+TO,Aviapartner Nantes
+V7,Aviapartner Nantes
+VY,Aviapartner Nantes
+SE,Aviapartner NCE
+TS,Aviapartner NCE
+OS,Aviapartner NCE
+0B,Aviapartner NCE
+BA,Aviapartner NCE
+SN,Aviapartner NCE
+AY,Aviapartner NCE
+BE,Aviapartner NCE
+IB,Aviapartner NCE
+LH,Aviapartner NCE
+FV,Aviapartner NCE
+SK,Aviapartner NCE
+TP,Aviapartner NCE
+HV,Aviapartner NCE
+TU,Aviapartner NCE
+VY,Aviapartner NCE
+U2,Aviapartner Palermo
+TO,Aviapartner Strasbourg
+SE,Aviapartner Strasbourg
+SE,Aviapartner Toulouse
+A3,Aviapartner Toulouse
+EI,Aviapartner Toulouse
+3O,Aviapartner Toulouse
+AC,Aviapartner Toulouse
+XK,Aviapartner Toulouse
+TS,Aviapartner Toulouse
+BA,Aviapartner Toulouse
+SN,Aviapartner Toulouse
+IB,Aviapartner Toulouse
+I2,Aviapartner Toulouse
+KL,Aviapartner Toulouse
+LH,Aviapartner Toulouse
+BJ,Aviapartner Toulouse
+AT,Aviapartner Toulouse
+FR,Aviapartner Toulouse
+TP,Aviapartner Toulouse
+TB,Aviapartner Toulouse
+TU,Aviapartner Toulouse
+VY,Aviapartner Toulouse
+TO,Aviapartner VCE
+U2,AVIATION SOLUTION BERLIN
+U2,AVIATOR
+U2,BES AIRPORT
+SE,BES AIRPORT
+U2,BIQ AIRPORT
+TO,Bratislava Airport
+U2,CAG AIRPORT
+U2,Casavia Ajaccio
+XK,Casavia Ajaccio
+SE,Casavia Ajaccio
+U2,Casavia Bastia
+XK,Casavia Bastia
+XK,Casavia Calvi
+U2,Casavia Calvi
+SE,Celebi AYT
+XK,CFE Airport
+SE,CFE Airport
+TO,Chambery Airport
+XK,CRL Airport
+U2,DHL Gatwick
+U2,DHL Luton
+XK,DLE Airport
+SE,DLE Airport
+U2,DTM AIRPORT
+TO,Dubrovnik Airport
+U2,Dubrovnik Airport
+SE,Dubrovnik Airport
+TO,EMAS Egyptian Marsa Alam Aviation Services
+SE,EMAS Egyptian Marsa Alam Aviation Services
+U2,FSC AIRPORT
+XK,FSC AIRPORT
+U2,GEASAR
+SE,GEH Belgrade
+U2,GEH CDG
+4U,GEH CDG
+5P,GEH CDG
+9W,GEH CDG
+A3,GEH CDG
+AC,GEH CDG
+AF,GEH CDG
+AM,GEH CDG
+AY,GEH CDG
+AZ,GEH CDG
+B2,GEH CDG
+BA,GEH CDG
+BR,GEH CDG
+BT,GEH CDG
+CA,GEH CDG
+CO,GEH CDG
+CX,GEH CDG
+CZ,GEH CDG
+DL,GEH CDG
+DY,GEH CDG
+EK,GEH CDG
+FV,GEH CDG
+GF,GEH CDG
+HY,GEH CDG
+I2,GEH CDG
+JJ,GEH CDG
+JL,GEH CDG
+JP,GEH CDG
+KC,GEH CDG
+KE,GEH CDG
+KK,GEH CDG
+KL,GEH CDG
+KM,GEH CDG
+KQ,GEH CDG
+LG,GEH CDG
+LH,GEH CDG
+LX,GEH CDG
+MD,GEH CDG
+ME,GEH CDG
+MK,GEH CDG
+MU,GEH CDG
+OK,GEH CDG
+OS,GEH CDG
+OU,GEH CDG
+OZ,GEH CDG
+PK,GEH CDG
+PS,GEH CDG
+QR,GEH CDG
+RO,GEH CDG
+S5,GEH CDG
+SN,GEH CDG
+SV,GEH CDG
+T5,GEH CDG
+TG,GEH CDG
+TN,GEH CDG
+U2,GEH CDG
+U6,GEH CDG
+UU,GEH CDG
+UX,GEH CDG
+VN,GEH CDG
+VR,GEH CDG
+VY,GEH CDG
+WW,GEH CDG
+WY,GEH CDG
+XQ,GEH CDG
+YM,GEH CDG
+U2,GEH ORY
+A5,GEH ORY
+AF,GEH ORY
+BF,GEH ORY
+CE,GEH ORY
+CU,GEH ORY
+EC,GEH ORY
+EC,GEH ORY
+IB,GEH ORY
+TP,GEH ORY
+TX,GEH ORY
+VY,GEH ORY
+XK,GEH ORY
+TX,GEH ORY
+XK,GEH ORY
+KM,GEH ORY
+AZ,GEH ORY
+BA,GEH ORY
+CE,GEH ORY
+U2,GEH ORY
+BF,GEH ORY
+IB,GEH ORY
+B0,GEH ORY
+DY,GEH ORY
+FV,GEH ORY
+TO,GEH ORY
+TB,GEH ORY
+VY,GEH ORY
+U2,GH Brindisi
+XK,GH Brindisi
+U2,GH ITALIA Verona
+TO,GH Napoli
+U2,GH Napoli
+SE,GH Napoli
+TO,GH Palermo
+SE,GH Palermo
+U2,GH VENEZIA IT
+SE,GH VENEZIA IT
+U2,GIB AIRPORT
+TO,GLOBE GROUND Malta
+U2,GNB AIRPORT
+U2,GOA AIRPORT
+U2,Goldair Sofia
+U2,GROUNDFORCE BIO
+SE,Groundforce FNC
+U2,GROUNDFORCE VLC
+TO,GTL LOT Airport Services
+U2,HAVAS DLM
+TO,HAVAS Ground Handling ADB
+TO,HAVAS Ground Handling AYT
+U2,HAVAS Ground Handling AYT
+TO,HAVAS Ground Handling BJV
+U2,HAVAS Ground Handling BJV
+U2,INV AIRPORT
+TO,Laufer Aviation TLV
+TO,Laufer Aviation VDA
+U2,LGS HANDLING Larnaca
+U2,LIN AIRPORT HANDLING
+TO,Link Aero Trading Agency
+TO,LINK Aero Trading Jordan
+TO,LJUBLJANA Airport
+U2,LJUBLJANA Airport
+U2,LS AIRPORT
+U2,LUX AIRPORT
+U2,Menzies ABZ
+U2,Menzies AGP
+U2,Menzies ALC
+U2,Menzies AMS
+U2,Menzies ARN
+U2,Menzies BCN
+U2,Menzies BHX
+TO,Menzies Budapest
+U2,Menzies Budapest
+U2,Menzies IBZ
+U2,Menzies IOM
+U2,Menzies LEI
+U2,Menzies MAD
+U2,Menzies MAN
+U2,Menzies MJV
+U2,Menzies NCE
+U2,Menzies NCE
+U2,Menzies PMI
+TO,Menzies PRG
+U2,Menzies PRG
+U2,Menzies SCQ
+U2,Menzies SVQ
+U2,Menzies Tenerife Sud
+SE,Nassau flt services
+SE,Nassau flt services
+TO,OFS Orly Flight Services
+TO,PISA AIRPORT
+U2,PISA AIRPORT
+TO,Portway FAO
+U2,Portway FAO
+TO,Portway FNC
+U2,Portway FNC
+TO,Portway LIS
+U2,Portway LIS
+TO,Portway OPO
+U2,Portway OPO
+U2,PRN AIRPORT
+U2,PUY AIRPORT
+SE,PUY AIRPORT
+U2,QAS ISRAEL
+SE,QAS ISRAEL
+U2,RNS AIRPORT
+TO,Royal Air Maroc Agadir
+SE,Royal Air Maroc Agadir
+TO,Royal Air Maroc Esuat
+SE,Royal Air Maroc Esuat
+TO,Royal Air Maroc Handling Oujda
+SE,Royal Air Maroc Handling Oujda
+TO,Royal Air Maroc RAK
+TO,Royal Air Maroc TNG
+TO,Royal Air Maroc TTU
+SE,Royal Air Maroc TTU
+TO,RTG Ground Handling Oy
+TO,SAS BOO
+TO,SAS Ground Handling Norway
+TO,SAS TOS
+TO,SAS TRD
+TO,SHS Dakar
+SE,Sky handling Dublin
+TO,Skyserv Alexandroupolis
+TO,Skyserv AOK
+TO,Skyserv Athenes
+TO,Skyserv CFU
+TO,Skyserv Chania
+TO,Skyserv Chios
+TO,Skyserv EFL
+TO,Skyserv GPA
+TO,Skyserv Heraklion
+TO,Skyserv IOA
+TO,Skyserv Kalamata
+TO,Skyserv Kastoria
+TO,Skyserv Kavala
+TO,Skyserv Kozani
+TO,Skyserv Kythira
+TO,Skyserv Milos
+TO,Skyserv Mykonos
+TO,Skyserv Mytilini
+TO,Skyserv Preveza
+TO,Skyserv Rhodos
+TO,Skyserv Samos
+TO,Skyserv Santorini
+TO,Skyserv Sitia
+TO,Skyserv Skiathos
+TO,Skyserv Thessaloniki
+TO,Skyserv Volos
+TO,Skyserv Zakynthos
+TO,SO.A.CO Comiso Airport
+TO,Split Airport
+U2,Split Airport
+SE,Split Airport
+U2,STR AIRPORT
+U2,Swissport Agadir
+TO,Swissport Alicante
+TO,Swissport Almeria
+U2,Swissport Athenes
+SE,Swissport AZS
+JP,Swissport Barcelone
+A3,Swissport Barcelone
+ZI,Swissport Barcelone
+KC,Swissport Barcelone
+BT,Swissport Barcelone
+AB,Swissport Barcelone
+AC,Swissport Barcelone
+AXE,Swissport Barcelone
+9U,Swissport Barcelone
+OZ,Swissport Barcelone
+A2,Swissport Barcelone
+OS,Swissport Barcelone
+JA,Swissport Barcelone
+0B,Swissport Barcelone
+OU,Swissport Barcelone
+DL,Swissport Barcelone
+WK,Swissport Barcelone
+EK,Swissport Barcelone
+AY,Swissport Barcelone
+BE,Swissport Barcelone
+FH,Swissport Barcelone
+4U,Swissport Barcelone
+2L,Swissport Barcelone
+I4,Swissport Barcelone
+LS,Swissport Barcelone
+KE,Swissport Barcelone
+HG,Swissport Barcelone
+PC,Swissport Barcelone
+AT,Swissport Barcelone
+UG,Swissport Barcelone
+SQ,Swissport Barcelone
+SX,Swissport Barcelone
+S5,Swissport Barcelone
+TP,Swissport Barcelone
+RO,Swissport Barcelone
+TO,Swissport Barcelone
+HV,Swissport Barcelone
+TU,Swissport Barcelone
+U6,Swissport Barcelone
+7W,Swissport Barcelone
+W6,Swissport Barcelone
+U2,Swissport BFS
+U2,Swissport BRS
+U2,Swissport Bruxelles
+U2,Swissport BSL
+AH,Swissport BSL
+3O,Swissport BSL
+AB,Swissport BSL
+TS,Swissport BSL
+OS,Swissport BSL
+BA,Swissport BSL
+SN,Swissport BSL
+FB,Swissport BSL
+XC,Swissport BSL
+CE,Swissport BSL
+U2,Swissport BSL
+5O,Swissport BSL
+E9,Swissport BSL
+FX,Swissport BSL
+FH,Swissport BSL
+ST,Swissport BSL
+4U,Swissport BSL
+KE,Swissport BSL
+LH,Swissport BSL
+NM,Swissport BSL
+BJ,Swissport BSL
+8Q,Swissport BSL
+PC,Swissport BSL
+FR,Swissport BSL
+SX,Swissport BSL
+XQ,Swissport BSL
+TWI,Swissport BSL
+3V,Swissport BSL
+QS,Swissport BSL
+TB,Swissport BSL
+TU,Swissport BSL
+TK,Swissport BSL
+VY,Swissport BSL
+W6,Swissport BSL
+U2,Swissport CFU
+U2,Swissport CHQ
+TO,Swissport Dublin
+U2,Swissport EFL
+TO,Swissport Fuerteventura
+TO,Swissport Gerona
+U2,Swissport GLA
+TO,Swissport Grenade
+U2,Swissport GVA
+A3,Swissport GVA
+AH,Swissport GVA
+AC,Swissport GVA
+CA,Swissport GVA
+IZ,Swissport GVA
+OS,Swissport GVA
+SN,Swissport GVA
+XC,Swissport GVA
+OK,Swissport GVA
+U2,Swissport GVA
+WK,Swissport GVA
+MS,Swissport GVA
+LY,Swissport GVA
+BE,Swissport GVA
+4U,Swissport GVA
+FI,Swissport GVA
+LS,Swissport GVA
+KU,Swissport GVA
+LO,Swissport GVA
+LH,Swissport GVA
+TF,Swissport GVA
+ME,Swissport GVA
+DY,Swissport GVA
+AT,Swissport GVA
+RJ,Swissport GVA
+SV,Swissport GVA
+SX,Swissport GVA
+XQ,Swissport GVA
+LX,Swissport GVA
+TP,Swissport GVA
+RO,Swissport GVA
+QS,Swissport GVA
+TK,Swissport GVA
+PS,Swissport GVA
+VY,Swissport GVA
+W6,Swissport GVA
+TO,Swissport Helsinki
+U2,Swissport Helsinki
+U2,Swissport Heraklion
+TO,Swissport Ibiza
+U2,Swissport JER
+TO,Swissport Jerez
+U2,Swissport JMK
+U2,Swissport JTR
+U2,Swissport KEF
+U2,Swissport KGS
+U2,Swissport KLX
+TO,Swissport La Palma
+TO,Swissport Lanzarote
+SE,Swissport Lanzarote
+TO,Swissport Las Palmas
+U2,Swissport LPL
+SE,Swissport LRM
+TO,Swissport Madrid
+TO,Swissport Malaga
+TO,Swissport Murcia
+U2,Swissport NCL
+TO,Swissport Palma de Majorque
+U2,Swissport PFO
+SE,Swissport POP
+SE,Swissport PUJ
+U2,Swissport RAK
+TO,Swissport Reus
+U2,Swissport RHO
+TO,Swissport Seville
+U2,Swissport SKG
+XK,Swissport STN
+TO,Swissport Tenerife Sud
+TO,Swissport Valence
+TO,Swissport Vigo
+U2,Swissport Zakynthos
+U2,Swissport ZRH
+3O,Swissport ZRH
+BT,Swissport ZRH
+AC,Swissport ZRH
+CA,Swissport ZRH
+UX,Swissport ZRH
+KM,Swissport ZRH
+OS,Swissport ZRH
+FB,Swissport ZRH
+CX,Swissport ZRH
+XC,Swissport ZRH
+OU,Swissport ZRH
+DL,Swissport ZRH
+U2,Swissport ZRH
+WK,Swissport ZRH
+LY,Swissport ZRH
+AY,Swissport ZRH
+FH,Swissport ZRH
+FI,Swissport ZRH
+KE,Swissport ZRH
+LH,Swissport ZRH
+WY,Swissport ZRH
+RJ,Swissport ZRH
+SQ,Swissport ZRH
+LX,Swissport ZRH
+TP,Swissport ZRH
+TG,Swissport ZRH
+TK,Swissport ZRH
+PS,Swissport ZRH
+VY,Swissport ZRH
+TO,TACV BVC
+SE,TACV BVC
+TO,TACV SID
+SE,TACV SID
+TO,TAV Handling
+SE,TAV Handling
+TO,TGS SAW
+U2,TLL AIRPORT
+XK,TLN Airport
+TO,Tunisair Handling DJE
+TO,Tunisair Handling MIR
+SE,Tunisair Handling MIR
+TO,Tunisair Handling TOE
+TO,Tunisair Handling TUN
+SE,Tunisair Handling TUN
+U2,VIENNA AIRPORT
+U2,WFS EDI
+U2,WISAG Cologne
+TO,Zadar Airport
+U2,Zadar Airport
+TO,Zagreb Airport
+SE,Celebi ADB
+SE,Flightcare
+SE,Royal Jordanian AMM
+SE,Royal Jordanian AQJ
+SE,IAB
+SE,Olympic handling
+SE,SEAP
+SE,Celebi BJV
+SE,Skyport
+SE,Celebi BUD
+SE,BVA airport
+SE,Sogaerdyn
+SE,Egyptair CAI
+SE,Olympic handling CFU
+SE,Flycare
+SE,Guinée Aviation Services
+SE,CND airport
+SE,AHS CSK
+SE,Saga Handling
+SE,Dijon airport
+SE,AHS Dakar
+SE,QAS handling
+SE,Groundforce FAO
+SE,Forli Airport
+SE,Scala
+SE,Olympic Handling GPA
+SE,Olympic Handling HER
+SE,Thai Airways handling
+SE,Egyptair handling
+SE,Acciona
+SE,Acciona
+SE,Celebi IST
+SE,AID
+SE,Olympic handling JMK
+SE,Olympic Handling JTR
+SE,IGS
+SE,Olympic handling KGS
+SE,KRK airport services
+SE,LIG airport
+SE,Groundforce LIS
+SE,Egyptair LXR
+SE,Kenya aerotech
+SE,WARL
+SE,GMIAL MLE
+SE,Kenya aerotech NBO
+SE,Sogeap
+SE,Acciona
+SE,Acciona
+SE,Iscar
+SE,Olympic Handling RHO
+SE,Aeradria
+SE,Aviapartner RTM
+SE,Celebi SAW
+SE,Iberia Airport Service SCQ
+SE,Swissport SDQ
+SE,Olympic Handling SKG
+SE,Egypt Air SSH
+SE,SAS SVG
+SE,Groundforce SVQ
+SE,Egyptair handling TCP
+SE,Semaval
+SE,CDSL
+SE,Fraport
+SE,QAS VDA
+SE,Aviohandling
+AF,AF Handling CDG
+AF,AF Handling MLH
+A3,Aviapartner AMS
+EI,Aviapartner AMS
+3O,Aviapartner AMS
+KC,Aviapartner AMS
+MSC,Aviapartner AMS
+KM,Aviapartner AMS
+TS,Aviapartner AMS
+IZ,Aviapartner AMS
+OS,Aviapartner AMS
+BA,Aviapartner AMS
+OU,Aviapartner AMS
+LY,Aviapartner AMS
+BE,Aviapartner AMS
+I2,Aviapartner AMS
+LO,Aviapartner AMS
+LH,Aviapartner AMS
+AT,Aviapartner AMS
+LX,Aviapartner AMS
+VR,Aviapartner AMS
+TU,Aviapartner AMS
+VY,Aviapartner AMS
+V7,GH Team Bordeaux
+A3,GEH NCE
+EI,GEH NCE
+BT,GEH NCE
+CA,GEH NCE
+LY,GEH NCE
+EW,GEH NCE
+I2,GEH NCE
+GW,GEH NCE
+LO,GEH NCE
+LG,GEH NCE
+DY,GEH NCE
+BJ,GEH NCE
+QR,GEH NCE
+FR,GEH NCE
+LX,GEH NCE
+TK,GEH NCE
